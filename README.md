@@ -258,4 +258,4 @@ This repository serves as the official landing page for Signal. The software is 
 **Get the most recent version of Signal today!**
 
 ---
-**Last updated:** 2026-10-16 23:05:33 UTC
+**Last updated:** 2026-10-17 01:56:09 UTC
